@@ -1,0 +1,29 @@
+{
+  "name": "hapi-auth-fake",
+  "version": "1.0.0",
+  "description": "fake auth provider for hapi",
+  "keywords": [
+    "hapi",
+    "plugin",
+    "auth",
+    "fake",
+    "dev"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Higgs",
+  "license": "MIT",
+  "homepage": "https://github.com/opentable/hapi-auth-fake",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/opentable/hapi-auth-fake"
+  },
+  "bugs": {
+    "url": "https://github.com/opentable/hapi-auth-fake/issues"
+  },
+  "dependencies": {
+    "hoek": "^2.14.0"
+  }
+}
